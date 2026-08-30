@@ -2,6 +2,8 @@
 
 Análise exploratória do mercado brasileiro de automóveis entre **julho de 2025 e junho de 2026**, com foco na evolução dos emplacamentos, desempenho de marcas e modelos e crescimento dos veículos eletrificados.
 
+[![Abrir no Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jefferson1337br/analise-mercado-automotivo/blob/main/AnaliseMercadoAutomotivo.ipynb)
+
 ## 🎯 Objetivo
 
 O objetivo deste projeto é analisar o comportamento do mercado automotivo brasileiro e responder perguntas como:
