@@ -37,9 +37,11 @@ A segunda contém informações mensais sobre o mercado de veículos **híbridos
 - Pandas
 - NumPy
 - Matplotlib
+- Power BI
+- Power Query
+- DAX
 - Google Colab
 - Git/GitHub
-
 ## 🔎 Etapas da análise
 
 O projeto foi desenvolvido seguindo as seguintes etapas:
@@ -83,6 +85,23 @@ O notebook apresenta visualizações e análises de:
 - evolução de híbridos e elétricos;
 - participação dos eletrificados;
 - comparação entre crescimento do mercado e dos eletrificados.
+
+## 📊 Dashboard em Power BI
+
+Além da análise exploratória desenvolvida em Python, os dados também foram utilizados para construir um dashboard interativo no Power BI.
+
+O dashboard permite acompanhar:
+
+- Emplacamentos dos modelos presentes no Top 50;
+- Total de veículos eletrificados;
+- Participação dos eletrificados no mercado de automóveis;
+- Evolução mensal dos emplacamentos;
+- Evolução de veículos híbridos e 100% elétricos;
+- Top 10 marcas dentro da amostra analisada;
+- Top 10 modelos mais emplacados;
+- Filtros por período e marca.
+
+Para a construção do dashboard foram utilizados **Power Query, modelagem de dados e medidas DAX**.
 
 ## ⚠️ Limitações
 
